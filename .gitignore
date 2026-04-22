@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*.swo
+secrets/
+*-secret.yaml
+!sealed-*-secret.yaml
